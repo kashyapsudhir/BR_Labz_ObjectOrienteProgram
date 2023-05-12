@@ -1,0 +1,43 @@
+{
+  "RiceList": [
+    {
+      "Name": "Basmati",
+      "Weight": 25,
+      "PricePerKg": 40
+    },
+    {
+      "Name": "Jira",
+      "Weight": 50,
+      "PricePerKg": 30
+    }
+  ],
+
+
+  "PulseList": [
+    {
+      "Name": "Chana",
+      "Weight": 20,
+      "PricePerKg": 45
+    },
+    {
+      "name": "ArharDal",
+      "Weight": 25,
+      "PricePerKg": 42
+    }
+  ],
+
+  "WheatList": [
+    {
+      "Name": "WheatQuality1",
+      "PricePerKg": 20,
+      "Weight": 30
+    },
+    {
+      "Name": "WheatQuality2",
+      "PricePerKg": 20,
+      "Weight": 50
+
+    }
+  ]
+
+}
